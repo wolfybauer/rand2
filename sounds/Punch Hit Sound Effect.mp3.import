@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Punch Hit Sound Effect.mp3-723a64f56ea78fa85e5471957cf475bb.mp3str"
+
+[deps]
+
+source_file="res://sounds/Punch Hit Sound Effect.mp3"
+dest_files=[ "res://.import/Punch Hit Sound Effect.mp3-723a64f56ea78fa85e5471957cf475bb.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/swipe-set-1.mp3-9560c47f0f15762b599db462c5718f11.mp3str"
+
+[deps]
+
+source_file="res://sounds/platformer-sound-pack/swipe-set-1.mp3"
+dest_files=[ "res://.import/swipe-set-1.mp3-9560c47f0f15762b599db462c5718f11.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

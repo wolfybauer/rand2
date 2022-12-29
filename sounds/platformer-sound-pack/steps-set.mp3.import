@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/steps-set.mp3-4ec137d8fd3517c9846ef077332b8945.mp3str"
+
+[deps]
+
+source_file="res://sounds/platformer-sound-pack/steps-set.mp3"
+dest_files=[ "res://.import/steps-set.mp3-4ec137d8fd3517c9846ef077332b8945.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

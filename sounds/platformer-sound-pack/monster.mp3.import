@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/monster.mp3-2e3231fbd9747fef23ebbe261d60ed2e.mp3str"
+
+[deps]
+
+source_file="res://sounds/platformer-sound-pack/monster.mp3"
+dest_files=[ "res://.import/monster.mp3-2e3231fbd9747fef23ebbe261d60ed2e.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

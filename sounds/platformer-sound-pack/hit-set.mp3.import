@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/hit-set.mp3-87b48596f01f865558753ea9b1ced98a.mp3str"
+
+[deps]
+
+source_file="res://sounds/platformer-sound-pack/hit-set.mp3"
+dest_files=[ "res://.import/hit-set.mp3-87b48596f01f865558753ea9b1ced98a.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

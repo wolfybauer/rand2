@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/muffled-explosion.mp3-fe64ec25683bb738007f2c7ca583f6f0.mp3str"
+
+[deps]
+
+source_file="res://sounds/platformer-sound-pack/muffled-explosion.mp3"
+dest_files=[ "res://.import/muffled-explosion.mp3-fe64ec25683bb738007f2c7ca583f6f0.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/thrust-set.mp3-547e9d03903de347d5176685c2c90cac.mp3str"
+
+[deps]
+
+source_file="res://sounds/platformer-sound-pack/thrust-set.mp3"
+dest_files=[ "res://.import/thrust-set.mp3-547e9d03903de347d5176685c2c90cac.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

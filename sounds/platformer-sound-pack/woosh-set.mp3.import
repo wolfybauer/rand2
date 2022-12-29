@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/woosh-set.mp3-8ba1f44f48d3c5d40e0a16ce05ddcfaa.mp3str"
+
+[deps]
+
+source_file="res://sounds/platformer-sound-pack/woosh-set.mp3"
+dest_files=[ "res://.import/woosh-set.mp3-8ba1f44f48d3c5d40e0a16ce05ddcfaa.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/pop-set.mp3-1824ceaebb3e6d1093b7499dba23283c.mp3str"
+
+[deps]
+
+source_file="res://sounds/platformer-sound-pack/pop-set.mp3"
+dest_files=[ "res://.import/pop-set.mp3-1824ceaebb3e6d1093b7499dba23283c.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/swipe-reversed.mp3-a977ea07ac99326b1ffcfcb46d698c92.mp3str"
+
+[deps]
+
+source_file="res://sounds/platformer-sound-pack/swipe-reversed.mp3"
+dest_files=[ "res://.import/swipe-reversed.mp3-a977ea07ac99326b1ffcfcb46d698c92.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
